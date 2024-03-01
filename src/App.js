@@ -21,6 +21,7 @@ function App() {
         <div><h1>again learning github</h1></div>
         <div><h1>learning git branch concept</h1></div>
         <h1>changing in dev branch</h1>
+        <h1>new chang in dev branch</h1>
       </header>
     </div>
   );
